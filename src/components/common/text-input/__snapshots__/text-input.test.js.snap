@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Repo Item Component Should test snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`Text Input Component Should test snapshot 1`] = `ShallowWrapper {}`;
