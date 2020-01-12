@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/xillio/static/css/main.a11d1d78.chunk.css",
+    "main.js": "/xillio/static/js/main.38148318.chunk.js",
+    "main.js.map": "/xillio/static/js/main.38148318.chunk.js.map",
+    "runtime-main.js": "/xillio/static/js/runtime-main.71cedae7.js",
+    "runtime-main.js.map": "/xillio/static/js/runtime-main.71cedae7.js.map",
+    "static/css/2.67123b20.chunk.css": "/xillio/static/css/2.67123b20.chunk.css",
+    "static/js/2.3a09b3db.chunk.js": "/xillio/static/js/2.3a09b3db.chunk.js",
+    "static/js/2.3a09b3db.chunk.js.map": "/xillio/static/js/2.3a09b3db.chunk.js.map",
+    "index.html": "/xillio/index.html",
+    "precache-manifest.5fb81b072be20e66568102b339394d20.js": "/xillio/precache-manifest.5fb81b072be20e66568102b339394d20.js",
+    "service-worker.js": "/xillio/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/xillio/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.a11d1d78.chunk.css.map": "/xillio/static/css/main.a11d1d78.chunk.css.map",
+    "static/js/2.3a09b3db.chunk.js.LICENSE": "/xillio/static/js/2.3a09b3db.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71cedae7.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.3a09b3db.chunk.js",
+    "static/css/main.a11d1d78.chunk.css",
+    "static/js/main.38148318.chunk.js"
+  ]
+}
