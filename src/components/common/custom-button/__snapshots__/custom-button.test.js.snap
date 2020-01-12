@@ -1,5 +1,3 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Custom Button Component Should test snapshot 1`] = `ShallowWrapper {}`;
-
-exports[`Header Component Should test snapshot 1`] = `ShallowWrapper {}`;
