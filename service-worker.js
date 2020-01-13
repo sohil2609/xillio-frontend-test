@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xillio-frontend-test/precache-manifest.3d55f6a3d9adb8876906acf95c9541fe.js"
+  "/xillio-frontend-test/precache-manifest.95281ea98b92d6762bc0a5147d15f74a.js"
 );
 
 self.addEventListener('message', (event) => {
