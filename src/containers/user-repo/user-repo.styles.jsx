@@ -11,3 +11,9 @@ export const MessageComponent = styled.div`
 		font-weight: bold;
 	}
 `;
+
+export const PageHeader = styled.div`
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 16px;
+`;

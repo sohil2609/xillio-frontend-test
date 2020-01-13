@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import SearchUser from '../../components/search-user/search-user.component';
-import { UserRepoComponent, MessageComponent } from './user-repo.styles';
+import { UserRepoComponent, MessageComponent, PageHeader } from './user-repo.styles';
 import SearchSuggestions from '../../components/common/search-suggestion/search-suggestion.component';
 import { getUsers, getRepos } from '../../service/user-repo.service';
 import RepoList from '../../components/repo-list/repo-list.component';
@@ -61,6 +61,7 @@ const UserRepo = () => {
 
 	return (
 		<UserRepoComponent className="user-repo">
+			<PageHeader>Search Public Repositories for User</PageHeader>
 			<SearchUser query={query} onChange={onQueryChange} onSubmit={onSubmit} data-test="searchUser" />
 
 			<SearchSuggestions list={users} displayKey="login" onClick={selectSuggestion} />

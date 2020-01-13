@@ -9,7 +9,7 @@ const SearchUser = ({ query, onChange, onSubmit }) => (
 			value={query}
 			name={'query'}
 			onChange={onChange}
-			placeholder="Search User"
+			placeholder="Search Username"
 			data-test="textInputComponent"
 		/>
 		<CustomButton extraCssClass="btn-primary" type="submit" text="Search" data-test="searchButton" />
