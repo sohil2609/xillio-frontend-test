@@ -1,5 +1,5 @@
 import React from 'react';
-import { ListGroup } from 'react-bootstrap';
+import ListGroup from 'react-bootstrap/ListGroup';
 import { SearchSuggestionsComponent } from './search-suggestion.styles';
 
 const SearchSuggestions = ({ list, displayKey, onClick, noOfSuggestion }) => {

@@ -1,6 +1,6 @@
 import React from 'react';
 import { RepoListComponent } from './repo-list.styles';
-import { ListGroup } from 'react-bootstrap';
+import ListGroup from 'react-bootstrap/ListGroup';
 
 const RepoList = ({ repos }) => {
 	const clickHandler = (url) => {
